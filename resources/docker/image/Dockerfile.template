@@ -182,7 +182,7 @@ RUN Rscript binder/install.R
 # when these change! Did I mention I hate Dockerfile cache semantics?
 
 LABEL repo2docker.version="0.9.0"
-LABEL repo2docker.repo="https://github.com/thedatasociety/lab-template"
+LABEL repo2docker.repo="https://github.com/Bootcamp-AI/lab-template"
 LABEL repo2docker.ref="None"
 
 # We always want containers to run as non-root
