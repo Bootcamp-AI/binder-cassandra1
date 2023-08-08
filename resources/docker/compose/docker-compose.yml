@@ -2,9 +2,7 @@
  services:
 
   lab-template:
-   image: Bootcamp-AI/lab-template
+   image: thedatasociety/lab-template
    ports:
      - 8888:8888
    
-
-
